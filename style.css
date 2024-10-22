@@ -237,16 +237,16 @@ body {
   }
 }
 #card-1 {
-  background-image: url(/assets/img-3.jpg);
+  background-image: url(assets/img-3.jpg);
 }
 #card-2 {
-  background-image: url(/assets/img-4.jpg);
+  background-image: url(assets/img-4.jpg);
 }
 #card-3 {
-  background-image: url(/assets/img-5.jpg);
+  background-image: url(assets/img-5.jpg);
 }
 #card-4 {
-  background-image: url(/assets/img-6.jpg);
+  background-image: url(assets/img-6.jpg);
 }
 .overlay {
   height: 100%;
@@ -543,11 +543,7 @@ body {
   #page5{
     width: 100%;
   }
-  #footer {
-    height: auto;
-    min-height: 40vh;
-    display: block;
-  }
+ 
 
  
 
